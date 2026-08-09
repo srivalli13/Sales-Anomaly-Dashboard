@@ -5,7 +5,7 @@
 > pattern, and emails a human when something's off. Built end-to-end: pipeline → detection →
 > dashboard → alerting → deployment.
 
-**🔗 Live dashboard:** [ADD YOUR STREAMLIT CLOUD URL HERE] — click it, it's real, it's running.
+**🔗 Live dashboard:** [https://sales-anomaly-dashboard.streamlit.app/] — click it, it's real, it's running.
 
 ---
 
